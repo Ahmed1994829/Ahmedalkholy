@@ -1,0 +1,8 @@
+{
+  "appId": "com.ahmedalkholy.chat",
+  "appName": "Ahmed alkholy",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
